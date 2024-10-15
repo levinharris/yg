@@ -1333,13 +1333,13 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/top888.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/levinharris/yg/main/lib/top888.json"
         },{
             "key": "纤纤影视福利版",
             "name": "🔞纤纤影视H版",
             "type": 3,
             "api": "csp_XBPQ",
-         "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+         "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/levinharris/yg/main/jar/hl.jar",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -1607,7 +1607,7 @@
     },  {"key": "jable",
             "name": "💃jable| XBPQ",
             "type": 3,
-            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/levinharris/yg/main/jar/hl.jar",
             "changeable": 1,
             "searchable": 1,
             "quickSearch": 1,
