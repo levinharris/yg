@@ -29,14 +29,14 @@
                         "searchable": 0,
                         "changeable": 1,
                         "indexs":1,
-                        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/douban.json"
+                        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/levinharris/yg/main/lib/douban.json"
                 },
         {
             "key": "drpy_js_黑木耳资源",
             "name": "木耳|影视",
             "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/mr.js"
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/levinharris/yg/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/levinharris/yg/main/lib/mr.js"
         }, {
             "key": "✨YY影视✨",
             "name": "UU|影视",
